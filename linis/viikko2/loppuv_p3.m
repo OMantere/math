@@ -1,3 +1,4 @@
+% Tehtävä 3.
 figure
 
 % Kaytetaan N 1-20
@@ -70,6 +71,7 @@ title('K2 eri N arvoilla - logaritminen');
 subplot(5, 1, 4);
 semilogy(n, K2);
 title('K2 eri N arvoilla - semilogaritminen');
+
 
 
 
